@@ -15,3 +15,6 @@ return "There is nobody waiting to be served!"
   return "Currently serving "+ katzDeliLine.shift()+"."
 }}
 
+function currentLine(katzDeliLine){
+  
+}
