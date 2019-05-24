@@ -20,5 +20,6 @@ function currentLine(katzDeliLine){
     return "The line is currently empty";
   }
   var linenames = [];
-  for (i = 0;i)
+  for (i = 0;i < katzDeliLine.length; i++)
+  
 }
