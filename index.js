@@ -28,4 +28,4 @@ function currentLine(katzDeliLine){
     return "The line is currently: " + linenames.join(",");
   }
   
-}
+
