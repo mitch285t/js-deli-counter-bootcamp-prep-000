@@ -14,3 +14,4 @@ return("There is nobody waiting to be served!")
 } else {
   return "currently serving "+ katzDeliLine.shift()+"."
 }
+}
