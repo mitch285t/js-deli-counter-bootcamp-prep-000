@@ -23,7 +23,7 @@ function currentLine(katzDeliLine){
   for (i = 0;i < katzDeliLine.length; i++){
     linenames.push(i+1 +"." + katzDeliLine[1]);
     console.log("The line is currently:" + linenames)
-    return "The line is currently:" + linenames.join
+    return "The line is currently:" + linenames.join(",");
   }
   
 }
