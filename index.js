@@ -21,7 +21,7 @@ function currentLine(katzDeliLine){
   }
   var linenames = [];
   for (i = 0;i < katzDeliLine.length; i++){
-    linenames.push(i+1 +"." + linenames[1])
+    linenames.push(i+1 +"." + katzDeliLine[1])
   }
   
 }
